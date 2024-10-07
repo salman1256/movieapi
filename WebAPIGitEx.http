@@ -1,0 +1,6 @@
+@WebAPIGitEx_HostAddress = http://localhost:5065
+
+GET {{WebAPIGitEx_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
