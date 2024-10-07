@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPIGitEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9293e8f856a1f7fde946e0c33d36b819cae0662")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPIGitEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPIGitEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
